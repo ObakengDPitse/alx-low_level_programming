@@ -3,6 +3,7 @@
  * Main - Entry point
  *
  * Return: Always 0 (Success)
+ * Sizes of data types
  */
 int main(void)
 {
