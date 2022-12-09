@@ -2,9 +2,9 @@
 #include <unistd.h>
 
 /**
- * Main - Entry point
+ * main - Printing a quote
  *
- * Return: Always 0 (Success)
+ * Return: 1
  */
 
 int main(void)/*printing a quote*/
